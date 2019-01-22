@@ -85,7 +85,6 @@ ThreeMatch.Board.prototype.consolelog = function () {
         }
     }
 
-    console.log(prettyString)
 }
 
 
