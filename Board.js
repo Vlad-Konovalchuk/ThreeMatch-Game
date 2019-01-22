@@ -168,7 +168,6 @@ ThreeMatch.Board.prototype.findAllChains = function () {
         }
     }
 
-    console.log(chained);
     return chained;
 }
 
